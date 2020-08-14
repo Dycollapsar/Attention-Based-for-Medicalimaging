@@ -13,3 +13,6 @@ https://github.com/ai-med/squeeze_and_excitation
 
 Recalibrating Fully Convolutional Networks with Spatial and Channel ‘Squeeze & Excitation’ Blocks  
 https://arxiv.org/pdf/1808.08127v1.pdf
+
+HD-Net: Hybrid Discriminative Network for Prostate Segmentation in MR Images  
+
